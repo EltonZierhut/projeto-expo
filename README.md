@@ -3,7 +3,7 @@
 16/09/2024.
 
 ## Equipes e Temas
-1. 
+1. Lucas Silva, Lucas Bomfim, Luís
 Filmes
 
 2. Keyla, Samanta, Elliz
