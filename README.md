@@ -6,7 +6,7 @@
 1. Lucas Silva, Lucas Bomfim, Luís
 Filmes
 
-2. Keyla, Samanta, Elliz
+2. Keyla, Samantha, Elliz
 Receitas
 
 3. Gasda, Cristian
@@ -18,7 +18,7 @@ Receitas
 5. Julia, Matheus, Henrique
 Filmes
 
-6. André, Andrei, Matheus Murara
+6. André, Andrei, Mateus Murara
 Filmes
 
 7. Ester, Felipe, Guilherme Veloso
