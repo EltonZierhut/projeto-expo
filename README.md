@@ -1,3 +1,7 @@
+## Entraga e Apresentação
+
+16/09/2024.
+
 ## Tema do Trabalho
 
 Desenvolvimento de um Aplicativo Móvel com EXPO e Integração com API
