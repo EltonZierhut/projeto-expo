@@ -2,6 +2,28 @@
 
 16/09/2024.
 
+## Equipes e Temas
+1. 
+Filmes
+
+2. Keyla, Samanta, Elliz
+Receitas
+
+3. Gasda, Cristian
+Filmes
+
+4. Augusto, Patrick, Marcio
+Receitas
+
+5. Julia, Matheus, Henrique
+Filmes
+
+6. André, Andrei, Matheus Murara
+Filmes
+
+7. Ester, Felipe, Guilherme Veloso
+Conversão de Moedas
+
 ## Tema do Trabalho
 
 Desenvolvimento de um Aplicativo Móvel com EXPO e Integração com API
